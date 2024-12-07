@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759538358292",
+    "project_id": "asik-ai-45d0c",
+    "storage_bucket": "asik-ai-45d0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759538358292:android:8a622d4be4b1ae95696f01",
+        "android_client_info": {
+          "package_name": "com.asik.ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVoCcMbqcxK0wna8YLDvi7SUEs_mc5dPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
